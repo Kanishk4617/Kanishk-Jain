@@ -1,12 +1,0 @@
-
-L
-java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8îó¬ÿ1
-A
-java:S1659"Declare "b" on a separate line.(ï¾ Áùÿÿÿÿ8ñó¬ÿ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘‰î·ùÿÿÿÿ8ñó¬ÿ1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Üºƒ©8òó¬ÿ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î´±´ÿÿÿÿÿ8òó¬ÿ1
-W
-java:S1172""5Remove these unused method parameters "str1", "str2".(¯ïº»şÿÿÿÿ8óó¬ÿ1
-H
-java:S1168$"+Return an empty collection instead of null.(¥¹ï8óó¬ÿ1
