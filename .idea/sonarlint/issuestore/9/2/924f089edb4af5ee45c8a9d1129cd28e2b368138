@@ -1,0 +1,17 @@
+
+9
+java:S1643"Use a StringBuilder instead.(Àøé”8Â €1
+>
+java:S1643$"Use a StringBuilder instead.(˜ôÇÿûÿÿÿÿ8Â €1
+X	java:S125"<This block of commented-out lines of code should be removed.(‰Óóû8¯Â €1
+L
+java:S2201"*The return value of "concat" must be used.(‡¾øşÿÿÿÿ8±Â €1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Ÿ÷Ÿüÿÿÿÿ8±Â €1
+W	java:S125%"<This block of commented-out lines of code should be removed.(öóœ8´Â €1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(÷…“8¹Â €1
+G
+java:S1197;"*Move the array designators [] to the type.(Õ®…ø8»Â €1
+]	java:S125B"<This block of commented-out lines of code should be removed.(Àªœ¯ùÿÿÿÿ8¼Â €1
+E
+java:S1172S"(Remove this unused method parameter "n".(ÜîöÁ8¾Â €1
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÂÂ €1
